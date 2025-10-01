@@ -1,6 +1,6 @@
 # PDFMaker 📄
 
-PDFMaker è un semplicissimo tool  sviluppato in python per generare file con estensione PDF. Il documento viene scritto direttamente da terminale una volta avviato il programma.
+PDFMaker è un semplice tool  sviluppato in Python per generare file con estensione .pdf. Il documento viene inserito direttamente da terminale una volta avviato il programma.
 
 
 ---
@@ -14,8 +14,8 @@ PDFMaker è un semplicissimo tool  sviluppato in python per generare file con es
 python maker.py
 ```
 
-- Una volta avviato, il programma mi chiederà di inserire il testo e di cliccare due volte invio per salvare il documento.
-- Una volta salvato il documento mi chiederà il nome del file senza aggiungere l'estensione visto che viene aggiunta di default.
+- Una volta avviato, il programma ti chiederà di inserire il testo e di premere invio due volte per salvare il documento.
+- Una volta salvato il documento mi chiederà il nome del file senza estensione, che verrà aggiunta automaticamente.
 
 
 ---
